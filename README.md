@@ -1,6 +1,7 @@
 - Hi, I’m @GamingRoos
-- I'm recently into creating keyboards and am beginning to design a 65% Ortholinear board.
-- How to reach me ... landlcopley@gmail.com
+- Currently studying a Bachelor of Information Technology
+- I'm recently into creating keyboards and designing a 65% Ortholinear board and a 40%.
+- How to reach me? landlcopley@gmail.com
 
 <!---
 GamingRoos/GamingRoos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
